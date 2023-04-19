@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwang4059
 - 👀 I’m interested in building full stack applications with React, Node, and Express.
-- 🌱 I’m currently learning how to use Docker, Dokku, and Digital Ocean for my backend server.
+- 🌱 I’m currently refining my development skills in Kotlin, Android Studio, and WearOS to create versatile and dynamic cross-device applications.
 - 📫 How to reach me: jwang4059@gmail.com
 
 <!---
